@@ -3,7 +3,7 @@ import Cases from "../components/Cases";
 
 export default function CasesPage() {
   return (
-    <div className="pt-16">
+    <div className="pt-0">
       <Cases />
     </div>
   );

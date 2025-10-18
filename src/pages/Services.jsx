@@ -3,7 +3,7 @@ import Services from "../components/Services";
 
 export default function ServicesPage() {
   return (
-    <div className="pt-16">
+    <div className="pt-0">
       <Services />
     </div>
   );
